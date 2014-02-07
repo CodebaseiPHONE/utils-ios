@@ -1,9 +1,9 @@
 //
 //  DeviceUtils.m
-//  ULoc8Me
+//  Codebase
 //
-//  Created by dbgmacmini2 dbg on 07/02/14.
-//  Copyright (c) 2014 DBGMINI1. All rights reserved.
+//  Created by codebase dbg on 07/02/14.
+//  Copyright (c) 2014 Codebase. All rights reserved.
 //
 
 #import "DeviceUtils.h"
